@@ -1,0 +1,8 @@
+1. 가상환경 사용
+  a. 시작 : myvenv\Scripts\activate
+  b. 종료 : deactivate
+2. 웹 서버
+  a. 시작 : python manage.py runserver
+  b. 종료 : Ctrl + C
+
+3.뷰만들기
